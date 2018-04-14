@@ -20,4 +20,5 @@ $b = $options['b'];
 
 $square = $a * $b;
 
+//use PHP_EOL constant for end line
 echo "Площадь:" . $square . PHP_EOL;
